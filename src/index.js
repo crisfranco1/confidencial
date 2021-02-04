@@ -1,13 +1,13 @@
 const messages = [
-  "😁 Sebastian",
-  "🤗 Johan 🤑",
-  "🖕 Felipe 🖕 te la hice 😂 🤣😅 😂 🤣",
+  "🤠 Sebastian 🧔🏻",
+  "🧦 Johan 🤑",
+  "💪 Felipe 🤣",
   "😁 Edgar 💩",
-  "😈 Sanchez",
+  "🐖 Sanchez 💄",
   "😉 Kelly 🤩 ",
   "🤓 Eme 😝  ",
   "🤗 Jhon ⚽️ ",
-  "😇 Franco"
+  "👬 Franco"
 ];
 
 const randomMsg = () => {
