@@ -5,6 +5,8 @@ const messages = [
     "😁 Edgar 💩", 
     "😈 Sanchez",
     "😉 Kelly 🤩 ", 
+    "🤓 Eme 😝  ", 
+    "🤗 Jhon ⚽️ ", 
     "😇 Franco"
 ];
   
