@@ -6,11 +6,23 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["JavaScript", "npm", "Node.js"],
+  "keywords": [
+    "JavaScript",
+    "npm",
+    "Node.js"
+  ],
   "author": "Cristian Franco <cristiandavidfrancogarcia@gmail.com>",
   "license": "MIT",
   "bin": {
-    "confidencial": "./bin/global.js"
+    "confidencial": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crisfranco15793/confidencial.git"
+  },
+  "bugs": {
+    "url": "https://github.com/crisfranco15793/confidencial/issues"
+  },
+  "homepage": "https://github.com/crisfranco15793/confidencial#readme"
 }
